@@ -3,4 +3,7 @@
   <sitemap>
     <loc>https://marcus16-kang.github.io/aws-resources-example/sitemap.xml</loc>
   </sitemap>
+  <sitemap>
+    <loc>https://marcus16-kang.github.io/load-test/sitemap.xml</loc>
+  </sitemap>
 </sitemapindex>
